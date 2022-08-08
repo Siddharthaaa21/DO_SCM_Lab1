@@ -1,4 +1,4 @@
- public class lap1{
+ public class cloned{
     {
         
     }
